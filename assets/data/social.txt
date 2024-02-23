@@ -1,0 +1,23 @@
+[
+{
+"id": "0xc6d8f88913a262b0b754c5c5f28ba5c5870ecf06", 
+"website":"https://viewchart.io/",
+"instagram": "https://instagram.com/inst", 
+"telegram": "https://link3.to/athdeveth", 
+"twitter": "https://twitter.com", 
+"youtubeurl": "youtube1",
+"facebook":"",
+"github":""
+},
+{
+"id": "2", 
+"website":"",
+"logo": "logo2.png", 
+"instagram": "insta2", 
+"telegram": "tele2", 
+"twitter": "twitter2", 
+"facebook":"",
+"youtubeurl": "youtube2",
+"github":""
+}
+]
